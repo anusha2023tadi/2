@@ -1,0 +1,5 @@
+\\ please write a program to generate a list of 5 random numbers between 100 and 200
+inclusive \\
+import random
+rand_list = random.sample(range(100, 201), 5)
+print(rand_list

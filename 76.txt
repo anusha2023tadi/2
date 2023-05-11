@@ -1,0 +1,4 @@
+76.txt
+import random
+random_float = random.uniform(10, 100)
+print(random_float)
